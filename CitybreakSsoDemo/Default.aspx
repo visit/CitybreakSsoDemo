@@ -5,7 +5,7 @@
     <div class="jumbotron">
         <h1>Portalen</h1>
         <p class="lead">Välkommen till portalen. Denna sida är inte skyddad.</p>
-        <p><a href="/Protected" class="btn btn-primary btn-large">Den här sidan är däremot skyddad med inloggning.</a></p>
+        <p><a href="/Protected.aspx" class="btn btn-primary btn-large">Den här sidan är däremot skyddad med inloggning.</a></p>
     </div>
 
 </asp:Content>
